@@ -1,3 +1,7 @@
+/*github url:https://github.com/free-javascript/javascript-form-validator
+creator: Nirmal Bhagwani
+*/
+
 var validdata = {
 	Formname : "mailsend",
 	Formid :"#mailsend",
