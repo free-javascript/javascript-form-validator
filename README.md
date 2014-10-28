@@ -21,13 +21,13 @@ var validdata = {
 	minchar : 4 // minimum char length for input field
 };
 
+3) put valid.init(); for validation initialization
+4) What to do after validation or if I want to put some filter
 
-3)What to do after validation or if I want to put some filter
+   a)Add class "valid" in input field which field you want to validate.
 
-a)Add class "valid" in input field which field you want to validate.
+   b)For validation mail field add class "mail"
 
-b)For validation mail field add class "mail"
-
-c)For restrictiting input only numeric field add Class "numonly"
+   c)For restrictiting input only numeric field add Class "numonly"
 
 Any suggesion of improvment is most welcome.
